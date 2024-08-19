@@ -1,4 +1,4 @@
-package com.igreja.controle_gastos.adapter.input.Controller;
+package com.igreja.controle_gastos.adapter.input.controller;
 
 
 import com.igreja.controle_gastos.domain.model.Patrimonio;
