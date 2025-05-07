@@ -35,7 +35,7 @@ O sistema é composto por funcionalidades para gerenciar as receitas, despesas, 
 
 ## Tecnologias Utilizadas
 
-- **Backend**: Spring Boot, Jakarta EE
+- **Backend**: Spring Boot, Jakarta
 - **Frontend**: React.js
 - **Banco de Dados**: PostgreSQL
 - **Autenticação e Autorização**: Spring Security com JWT
